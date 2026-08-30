@@ -1,6 +1,6 @@
 # AskScratch Gen AI — Deployed on Cloud Run ☁️
 
-**Gen AI Academy APAC 2025 Submission — Built by K-AI — 13yo Lead Programmer & Debugger — Grade 8 Sem 1**
+**Gen AI Academy APAC 2025 Submission — Built by K-AI  Lead Programmer & Debugger 
 
 Live: https://askscratch-gen-ai-923376559840.asia-southeast1.run.app
 
