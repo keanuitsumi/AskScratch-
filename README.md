@@ -3,7 +3,6 @@
 **Gen AI Academy APAC 2025 Submission — Built by K-AI — 13yo Lead Programmer & Debugger — Grade 8 Sem 1**
 
 Live: https://askscratch-gen-ai-923376559840.asia-southeast1.run.app
-Main V6.1: https://askscratch.web.val.run — K-Oss Max J1 550B-A55B + Codex 120B + Voice S-T-S Purple Blob — 392KB single HTML — indexed Google — auto-update APK
 
 ## Features — Verified on Cloud Run asia-southeast1
 - Firebase Auth 12.18.0 — Google + Email/Password — browserLocalPersistence
